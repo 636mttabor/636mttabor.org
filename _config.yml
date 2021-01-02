@@ -16,7 +16,7 @@
 title: 636th Mt Tabor
 email: mounttaborscouts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  636th Mt. Tabor  &#8211; Baden-Powell Service Association // Southeast Portland, Oregon
+  636th Mt. Tabor  &ndash; Baden-Powell Service Association // Southeast Portland, Oregon
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
