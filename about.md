@@ -14,7 +14,7 @@ Our aim is to promote the tenets of traditional scouting: outdoor skills, though
 
 The 636th started scout meetings in May 2014.
 
-We were inspired by the success of <a title="55th Cascadia BPSA Group" href="http://www.55cascadia.org/" target="_blank" rel="noopener noreferrer">55th Cascadia</a>, which was Portland&#8217;s first BPSA Scout Group. We say inspired, but really, they were at capacity and had no room for other scouts&#8230; so they helped us start the 636th Mt. Tabor!
+We were inspired by the success of 55th Cascadia, which was Portland's first BPSA Scout Group. We say inspired, but really, they were at capacity and had no room for other scouts&hellip; so they helped us start the 636th Mt. Tabor!
 
 We planned for a year, attended the 55th&#8217;s First Hullabaloo in June of 2013, and completed the Brownsea training in September 2013. In Fall 2013, the 636th Mt. Tabor was chartered, held several planning meetings with interested adult leaders, and, together with the 55th Cascadia, established not-for-profit status with the State of Oregon.
 
