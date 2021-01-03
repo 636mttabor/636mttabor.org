@@ -39,3 +39,4 @@ exclude:
   - vendor/ruby/
   - bin/
   - CNAME
+  - README.md
