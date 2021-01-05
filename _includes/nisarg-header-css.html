@@ -1,0 +1,44 @@
+<style type="text/css" id="nisarg-header-css">
+    .site-header {
+    background: url(/images/cropped-necker-200h.jpg) no-repeat scroll top;
+                            background-size: 1600px auto;
+        height: 200px;
+                    }
+@media (max-width: 767px) {
+    .site-header {
+                                    background-size: 768px auto;
+            height: 192px;
+
+    }
+}
+@media (max-width: 359px) {
+    .site-header {
+                                    background-size: 768px auto;
+            height: 90px;
+
+    }
+
+}
+.site-header{
+    -webkit-box-shadow: 0px 0px 2px 1px rgba(182,182,182,0.3);
+    -moz-box-shadow: 0px 0px 2px 1px rgba(182,182,182,0.3);
+    -o-box-shadow: 0px 0px 2px 1px rgba(182,182,182,0.3);
+    box-shadow: 0px 0px 2px 1px rgba(182,182,182,0.3);
+}
+.site-title,
+.site-description {
+position: absolute;
+clip: rect(1px 1px 1px 1px); /* IE7 */
+clip: rect(1px, 1px, 1px, 1px);
+}
+
+.site-title,
+.site-description {
+color: '#blank';
+}
+.site-title::after{
+background: '#blank';
+content:"";
+}
+
+</style>
