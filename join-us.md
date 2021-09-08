@@ -7,9 +7,9 @@ permalink: join-us/index.html
 
 ## Joining the 636th ##
 
-The 636th is full for the current (2020-2021) Scouting year.
+The 636th is full for the current (2021-2022) Scouting year.
 
-If you would like to join our waitlist for next (2021-2022) Scouting year, please join our waitlist (below). Our year begins in September.
+If you would like to join our waitlist for next (2022-2023) Scouting year, please join our waitlist (below). Our year begins in September.
 
 If you are interested in starting another SE Portland group, please contact our West Coast Commissioner at:
 [commissionerwest@gmail.com](mailto:commissionerwest@gmail.com). The Commissioner can walk you through opening your own group. BPSA provides an incredible amount of help to guide you!
