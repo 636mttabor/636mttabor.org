@@ -1,4 +1,6 @@
-ruby '2.7.1'
+ruby '3.3.4'
 
-gem 'github-pages', '209'
+source "https://rubygems.org"
+
+gem 'github-pages', '232'
 gem 'jekyll-docs'
