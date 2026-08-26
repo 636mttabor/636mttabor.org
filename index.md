@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-The 636th Mt. Tabor OSG Group is a traditional outdoor organization that is open to adults and youth of all genders, and is dedicated to being an open and inclusive outdoor program.
+The 636th Mt. Tabor is a traditional outdoor organization that is open to adults and youth of all genders, and is dedicated to being an open and inclusive outdoor program.
 
 The 636th Mt. Tabor is a registered member of the [Outdoor Service Guides](https://outdoorserviceguides.org/) (OSG), which is committed to providing a traditional, community-oriented outdoor experience. **OSG welcomes all members regardless of race, gender identity, sexual orientation, religion (or no-religion) or other differentiating factors.** Our mission is to provide a positive learning environment within the context of democratic participation and social justice. We foster the development of members of all ages in an environment of mutual respect and cooperation.
 
@@ -12,4 +12,4 @@ Yours in traditional outdoor adventure,<br/>
 &ndash; 636th Mount Tabor Group Leaders<br />
 [Contact us by email](mailto:info@636mttabor.org)
 
-636th Mt. Tabor OSG Group is a member of the [Metro Service Council](https://www.msc-osg.org/), a 501(c)3.
+636th Mt. Tabor is a member of the [Metro Service Council](https://www.msc-osg.org/), a 501(c)3.
