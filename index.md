@@ -10,6 +10,6 @@ At its heart, our program is an outdoor movement and that is a key part of its c
 
 Yours in traditional outdoor adventure,<br/>
 &ndash; 636th Mount Tabor Group Leaders<br />
-[Contact us by email](mailto:mounttaborscouts@gmail.com)
+[Contact us by email](mailto:info@636mttabor.org)
 
 636th Mt. Tabor OSG Group is a member of the [Metro Service Council](https://www.msc-osg.org/), a 501(c)3.

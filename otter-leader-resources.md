@@ -5,7 +5,7 @@ permalink: /otter-leader-resources/index.html
 ---
 Welcome, Den Leaders and Raft Leaders!
 
-Otters are excited, curious, loud, loving, impassioned, busy, inquisitive, and awesome. We deeply appreciate those of you who've volunteered to lead your groups of Otters through their first scouting experiences. We hope this page serves as a good starting point, as well as an extensive reference you can come back to. If you have any questions, [please send us an email.](mailto:mounttaborscouts@gmail.com)
+Otters are excited, curious, loud, loving, impassioned, busy, inquisitive, and awesome. We deeply appreciate those of you who've volunteered to lead your groups of Otters through their first scouting experiences. We hope this page serves as a good starting point, as well as an extensive reference you can come back to. If you have any questions, [please send us an email.](mailto:info@636mttabor.org)
 
 ## Getting Started ##
 
