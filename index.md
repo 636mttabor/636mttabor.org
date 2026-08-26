@@ -12,4 +12,4 @@ Yours in traditional outdoor adventure,<br/>
 &ndash; 636th Mount Tabor Group Leaders<br />
 [Contact us by email](mailto:mounttaborscouts@gmail.com)
 
-636th Mt. Tabor OSG Group is a member of the Multnomah Service Cooperative, a 501(c)3.
+636th Mt. Tabor OSG Group is a member of the [Metro Service Council](https://www.msc-osg.org/) (MSC), a 501(c)3.

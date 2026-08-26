@@ -18,7 +18,7 @@ We were inspired by the success of 55th Cascadia, which was Portland's first BPS
 
 We planned for a year, attended the 55th's First Hullabaloo in June of 2013, and completed the Brownsea training in September 2013. In Fall 2013, the 636th Mt. Tabor was chartered, held several planning meetings with interested adult leaders, and, together with the 55th Cascadia, established not-for-profit status with the State of Oregon.
 
-**636th Mt. Tabor is a member of the Multnomah Service Cooperative, a 501(c)(3). Tax ID is 46-3844724**
+**636th Mt. Tabor is a member of the [Metro Service Council](https://www.msc-osg.org/) (MSC), a 501(c)(3). Tax ID is 46-3844724**
 
 <img class="aligncenter size-full wp-image-264" src="/images/rsp1-copy.jpg" alt="rsp1 copy" width="600" height="399" srcset="https://www.636mttabor.org/images/rsp1-copy.jpg 600w, https://www.636mttabor.org/images/rsp1-copy-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
 
